@@ -7,8 +7,14 @@ body {
 
 h1 {
     text-align: center;
+    background-color: rgb(143, 0, 0);
+    color: whitesmoke;
 }
 
 #upcoming {
     margin-bottom: 50px;
+}
+
+.bracket {
+    margin-bottom: 5%;
 }

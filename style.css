@@ -18,3 +18,20 @@ h1 {
 .bracket {
     margin-bottom: 5%;
 }
+
+#ladder {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5%;
+}
+
+#ladder img {
+    display: block;
+    margin:0;
+    padding:0;
+}
+
+#footer {
+    display: block;
+    text-align: center;
+}
